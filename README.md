@@ -61,10 +61,19 @@ I'm currently studying Systems Analysis and working everyday to learn something 
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/VictorRodas99">
-  <img src="https://github-readme-stats.vercel.app/api?username=VictorRodas99&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="VictorRodas99's GitHub stats" />
-</a>
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=VictorRodas99&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+ />
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=VictorRodas99&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=VictorRodas99&show_icons=true" alt="VictorRodas99's GitHub stats"/>
+</picture>
+
 <br>
-<a href="https://github.com/VictorRodas99" align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorRodas99&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
-</a>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorRodas99&langs_count=10&custom_title=Top%20%Languages" alt="Top Languages"/>
+
