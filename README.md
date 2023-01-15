@@ -61,19 +61,9 @@ I'm currently studying Systems Analysis and working everyday to learn something 
 
 <b>My GitHub Stats</b>
 
-<picture>
-<source 
-  srcset="https://github-readme-stats-ruby.one.vercel.app/api?username=VictorRodas99&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
- />
-<source
-  srcset="https://github-readme-stats-ruby.one.vercel.app/api?username=VictorRodas99&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats-ruby.one.vercel.app/api?username=VictorRodas99&show_icons=true" alt="VictorRodas99's GitHub stats"/>
-</picture>
+<img src="https://github-readme-stats-ruby-one.vercel.app/api?username=VictorRodas99&show_icons=true&theme=dark" alt="VictorRodas99's GitHub stats"/>
 
 <br>
 
-<img src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=VictorRodas99&langs_count=10&custom_title=Top%20%Languages" alt="Top Languages"/>
+<img src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=VictorRodas99&langs_count=10&custom_title=Top%20%Languages&theme=dark" alt="Top Languages"/>
 
