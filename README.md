@@ -6,7 +6,7 @@ I'm currently studying Systems Analysis and working everyday to learn something 
 * 🚀  I'm currently working on node.js with express and python to automate tasks
 - 🌱  I'm learning express.js, Data Structure and Algorithms
 * 🤝  I'm open to collaborating on any project related to backend with Node.js
-- ✉️  You can contact me at [victormatiasrodas100@gmail.com](mailto:victormatiasrodas100@gmail.com)
+- ✉️  You can contact me at [victormrodas99@gmail.com](mailto:victormrodas99@gmail.com)
 
 ## Skills
 
