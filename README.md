@@ -16,10 +16,10 @@ I am a dedicated and enthusiastic, currently pursuing a degree in Systems Analys
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap&perline=3)](https://skillicons.dev)
 
 ## Programming Languages and Runtimes
-[![My Skills](https://skillicons.dev/icons?i=bash,py,javascript,ts,nodejs&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,py,javascript,ts,php,nodejs&perline=4)](https://skillicons.dev)
 
 ## Frameworks and Libraries
-[![My Skills](https://skillicons.dev/icons?i=express,flask,react,electron&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=express,flask,laravel,react,electron&perline=4)](https://skillicons.dev)
 
 ## Databases and ORM's
 [![My Skills](https://skillicons.dev/icons?i=mysql,prisma,sequelize&perline=4)](https://skillicons.dev)
