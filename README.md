@@ -5,6 +5,7 @@ Software Developer
 
 I am a dedicated and enthusiastic, currently pursuing a degree in Systems Analysis. As a lifelong learner, I'm constantly seeking to expand my knowledge and skills to become a proficient programmer, a better problem solver and a good person.
 
+*   🖥️  See my [personal website](https://victormatiasrodas.vercel.app/)
 *   ✉️  You can contact me at [victormrodas99@gmail.com](mailto:victormrodas99@gmail.com)
 *   🚀  I'm currently working on a beautiful [ecommerce](https://github.com/VictorRodas99/ecommerce-web-project)
 *   🌱  I'm learning React, GitHub Actions and TypeScript.
@@ -13,13 +14,13 @@ I am a dedicated and enthusiastic, currently pursuing a degree in Systems Analys
 # Skills
 
 ## Markup Languages
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap&perline=3)](https://skillicons.dev)
 
 ## Programming Languages and Runtimes
 [![My Skills](https://skillicons.dev/icons?i=bash,py,javascript,ts,php,nodejs&perline=4)](https://skillicons.dev)
 
 ## Frameworks and Libraries
-[![My Skills](https://skillicons.dev/icons?i=express,flask,laravel,react,electron&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=express,flask,laravel,react,astro,electron&perline=4)](https://skillicons.dev)
 
 ## Databases and ORM's
 [![My Skills](https://skillicons.dev/icons?i=mysql,prisma,sequelize&perline=4)](https://skillicons.dev)
