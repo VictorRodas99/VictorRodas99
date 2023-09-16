@@ -14,7 +14,7 @@ I am a dedicated and enthusiastic, currently pursuing a degree in Systems Analys
 # Skills
 
 ## Markup Languages
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap&perline=4)](https://skillicons.dev)
 
 ## Programming Languages and Runtimes
 [![My Skills](https://skillicons.dev/icons?i=bash,py,javascript,ts,php,nodejs&perline=4)](https://skillicons.dev)
